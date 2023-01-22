@@ -33,5 +33,3 @@ represented as a set of words and a document D represented as a set of words (ea
 once even if repeated in document multiple times), the similarity between Q and D is computed by:
 
 Sim = The size of set of common words / (sqrt size of D * sqrt size of Q)
-
-Write a program to test the classes and run sample queries on sample documents
